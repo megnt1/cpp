@@ -1,9 +1,9 @@
 #include <iostream> // 
 using namespace std;
-    // main í•¨ìˆ˜ entry point(ì§„ì…ì )
+    // main ÇÔ¼ö entry point(ÁøÀÔÁ¡)
 int main(int argc, char const *argv[]){
     cout << "Hello World" << endl;
-    return 0;   // íŒŒì´ì¬: sys.exit(0)
+    return 0;   // ÆÄÀÌ½ã: sys.exit(0)
 }
-// {} ë²”ìœ„ì§€ì • int<-- ë¦¬í„´í•˜ëŠ” í•¨ìˆ˜, cëŠ” consoleì˜ ì•½ì, endl= \n
-// using namespace std<-- ë¥¼ ì•ˆì¼ë‹¤ë©´ std::cout << "Hello World----"<<std::endl;  
+// {} ¹üÀ§ÁöÁ¤ int<-- ¸®ÅÏÇÏ´Â ÇÔ¼ö, c´Â consoleÀÇ ¾àÀÚ, endl= \n
+// using namespace std<-- ¸¦ ¾È½è´Ù¸é std::cout << "Hello World----"<<std::endl;  
